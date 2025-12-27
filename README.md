@@ -167,11 +167,12 @@ message Employees {
 
 ### Capture 1 : Exécution du script et résultats
 
-*[Insérer ici la première capture d'écran du terminal montrant l'exécution du script]*
+<img width="1024" height="402" alt="image" src="https://github.com/user-attachments/assets/56a95b4f-068f-47a0-b299-256f184ca701" />
+
 
 ### Capture 2 : Analyse détaillée des résultats
 
-*[Insérer ici la deuxième capture d'écran du terminal avec les résultats détaillés]*
+<img width="1024" height="402" alt="image" src="https://github.com/user-attachments/assets/8837d0d9-e40f-429a-9845-7fbd83ffe3af" />
 
 ## Scripts disponibles
 
